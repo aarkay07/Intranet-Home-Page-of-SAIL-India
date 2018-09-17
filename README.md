@@ -1,2 +1,2 @@
 # Intranet-Home-Page-of-SAIL-India
-Intranet homepage created me during my internship.
+Intranet homepage created by me during my internship.
